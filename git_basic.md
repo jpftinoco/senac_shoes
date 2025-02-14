@@ -17,3 +17,9 @@
 
 `git commit -m "messagem de atualizaçao"` -> crie um commit para que seja ralizado um novo versionamento
 
+`git log` -> lista todods os commit que foram realizados.
+`git log --oneline --graph --decorate` -> forma compacta de exibir os commits
+
+`git remote add origin` https://github.com/jpftinoco/senac_shoes.git ->realiza o sicronizaçao do repositorio local com o remoto
+
+`git push -u origin main` -> envia as informaçoes do local para o remoto
